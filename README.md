@@ -1,8 +1,8 @@
 # React native tests example
 
-Simple example to get your started with React-Native and Redux and how to test the hell of it.
+Simple example to get your started with React-Native , Redux and how to test the hell of it.
 
-with this repository you'll learn stuff like : 
+with this example you'll learn stuff like : 
     
   - How to run tests using [Mocha.js][Mocha]
   - How to write tests using assertion librery like [Chai.js][Chai]
@@ -19,7 +19,7 @@ npm install
   
  then 
  
- ### Running unit tests + Enzyme with some coverage test
+### Running unit tests + Enzyme with some coverage test
  
  ```sh
 npm test
